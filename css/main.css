@@ -16,11 +16,24 @@ body {
   padding-right: 1rem;
 }
 
+header {
+  border-bottom: 2px solid #999;
+}
+
+h1 {
+  margin-bottom: 1.3px;
+}
+
 header p {
   font-style: italic;
+  margin-top: 1.3px;
 }
 
 blockquote {
   font-size: 1.5rem;
   color: #999;
+}
+
+article {
+  border-bottom: 2px solid #999;
 }
